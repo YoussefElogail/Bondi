@@ -14,4 +14,4 @@
 
 ![Bootstrap 5](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   </ul>
-  <p>The Idea Of ​​​​Qubly Website Is To Apply It To The Scss And Turn The Design Into An Actual Website</p>
+  <p>The Idea From Bondi Is To Apply It To Bootstrap 5</p>
